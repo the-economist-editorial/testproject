@@ -1,4 +1,8 @@
 testproject
 ===========
 
-Testing git
+new line
+
+Testing git version control
+
+make a change for the diff
